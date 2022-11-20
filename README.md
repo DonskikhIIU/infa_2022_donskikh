@@ -1,3 +1,3 @@
 # infa_2022_donskikh
 
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+text red text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
